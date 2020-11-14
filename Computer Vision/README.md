@@ -1,5 +1,5 @@
 Project Steps
-Steps we’ve covered so far:
+Steps:
 1.	Camera calibration
 2.	Distortion correction
 3.	Color/gradient threshold
